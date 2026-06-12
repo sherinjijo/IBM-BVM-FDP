@@ -1,0 +1,8 @@
+langflow
+ibm-watsonx-ai
+streamlit
+faiss-cpu
+chromadb
+pandas
+numpy
+requests

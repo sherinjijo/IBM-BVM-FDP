@@ -1,0 +1,10 @@
+{
+  "name": "Daily Air Quality Action Agent",
+  "version": "1.0.0",
+  "tech_stack": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "RAG"
+  ]
+}
