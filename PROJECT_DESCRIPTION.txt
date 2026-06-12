@@ -1,5 +1,0 @@
-Problem Statement No.15: Daily Air Quality Action Agent
-
-The solution retrieves AQI data, provides personalized health recommendations,
-predicts poor air-quality events, generates community awareness insights,
-and visualizes results through a dashboard.
